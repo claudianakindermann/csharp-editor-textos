@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj": {}
+    "C:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "c:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj": {
+    "C:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "c:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\dev\\csharp-text-editor\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\c.candido.kindermann\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\csharp-text-editor\\TextEditor\\obj\\",
+        "outputPath": "C:\\dev\\csharp-text-editor\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c.candido.kindermann\\AppData\\Roaming\\NuGet\\NuGet.Config"
